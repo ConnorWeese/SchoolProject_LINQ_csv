@@ -1,0 +1,13 @@
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\obj\Debug\netcoreapp3.1\Assignment 7.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\obj\Debug\netcoreapp3.1\Assignment 7.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\obj\Debug\netcoreapp3.1\Assignment 7.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\obj\Debug\netcoreapp3.1\Assignment 7.AssemblyInfo.cs
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\bin\Debug\netcoreapp3.1\Assignment 7.exe
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\bin\Debug\netcoreapp3.1\Assignment 7.deps.json
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\bin\Debug\netcoreapp3.1\Assignment 7.runtimeconfig.json
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\bin\Debug\netcoreapp3.1\Assignment 7.runtimeconfig.dev.json
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\bin\Debug\netcoreapp3.1\Assignment 7.dll
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\bin\Debug\netcoreapp3.1\Assignment 7.pdb
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\obj\Debug\netcoreapp3.1\Assignment 7.dll
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\obj\Debug\netcoreapp3.1\Assignment 7.pdb
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 7\Assignment 7\obj\Debug\netcoreapp3.1\Assignment 7.genruntimeconfig.cache
